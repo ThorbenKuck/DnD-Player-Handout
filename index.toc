@@ -61,7 +61,24 @@
 \contentsline {subsubsection}{Grandmaster}{16}
 \contentsline {subsubsection}{Unholy Siegemaster}{16}
 \contentsline {chapter}{\numberline {}Chapter 4: Extra Rules}{17}
-\contentsline {subsection}{Familiars}{17}
-\contentsline {subsubsection}{Gameplay}{17}
-\contentsline {subsubsection}{Fight with an Familiar}{17}
-\contentsline {subsection}{Castle Management And Administration}{18}
+\contentsline {subsection}{Familiars}{18}
+\contentsline {subsubsection}{Gameplay}{18}
+\contentsline {subsubsection}{Fight with an Familiar}{18}
+\contentsline {subsection}{Castle Management And Administration}{19}
+\contentsline {subsubsection}{Headquarter}{19}
+\contentsline {paragraph}{Buttler}{19}
+\contentsline {paragraph}{Treasurer}{19}
+\contentsline {paragraph}{Nobel}{20}
+\contentsline {paragraph}{Warlord}{20}
+\contentsline {paragraph}{Builder}{20}
+\contentsline {subparagraph}{Pro}{20}
+\contentsline {subparagraph}{Con}{20}
+\contentsline {subparagraph}{Type}{20}
+\contentsline {subparagraph}{Factor}{21}
+\contentsline {subsubsection}{Outposts}{21}
+\contentsline {subsubsection}{Other Personal}{21}
+\contentsline {subsubsection}{Buildings}{21}
+\contentsline {subsubsection}{Population}{21}
+\contentsline {subsubsection}{Taxes}{21}
+\contentsline {subsubsection}{Rules}{21}
+\contentsline {subsubsection}{Politics}{21}
