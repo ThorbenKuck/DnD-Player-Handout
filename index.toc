@@ -1,0 +1,63 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {}Chapter1: The World}{5}
+\contentsline {section}{\numberline {}Gobink}{5}
+\contentsline {subsection}{Sobra}{5}
+\contentsline {subsection}{Gilbrit}{5}
+\contentsline {subsection}{Valtras}{5}
+\contentsline {subsection}{Nobrut}{5}
+\contentsline {section}{\numberline {}Dragonborns}{6}
+\contentsline {paragraph}{Origin}{6}
+\contentsline {section}{\numberline {}Nightelves}{6}
+\contentsline {paragraph}{Origins}{6}
+\contentsline {chapter}{\numberline {}Chapter 2: Races}{7}
+\contentsline {section}{\numberline {}Half-Gombrut}{7}
+\contentsline {subsection}{Left Behind}{7}
+\contentsline {subsection}{Antisocial Genes}{7}
+\contentsline {subsection}{Half-Gombrut Names}{7}
+\contentsline {subsection}{Half-Gombrut Traits}{7}
+\contentsline {section}{\numberline {}Half-Weylin}{9}
+\contentsline {subsection}{Wild Anatomy}{9}
+\contentsline {subsection}{Pack-Live}{9}
+\contentsline {subsection}{Half-Weylin Names}{9}
+\contentsline {subsection}{Half-Weylin Traits}{9}
+\contentsline {chapter}{\numberline {}Chapter 3: Classes}{11}
+\contentsline {section}{\numberline {}Necromancer}{12}
+\contentsline {subsection}{Undead Minions}{12}
+\contentsline {subsection}{A Life of Consequences}{12}
+\contentsline {subsection}{Creating A Necromancer}{12}
+\contentsline {subsubsection}{Quick Build}{13}
+\contentsline {subsubsection}{Class Features}{13}
+\contentsline {paragraph}{HIT POINTS}{13}
+\contentsline {paragraph}{PROFICIENCIES}{13}
+\contentsline {subsubsection}{Equipmet}{13}
+\contentsline {subsection}{Control Undead}{13}
+\contentsline {subsection}{Raise Undead}{13}
+\contentsline {subsection}{Lifetap}{13}
+\contentsline {subsection}{Necromantic Aspiration}{14}
+\contentsline {subsection}{Ability Score Improvement}{14}
+\contentsline {subsection}{Charnel Touch}{14}
+\contentsline {subsection}{Aura of Undeath}{14}
+\contentsline {subsection}{Dark Nova}{14}
+\contentsline {subsection}{Sacrifice Undead}{14}
+\contentsline {subsection}{Dominate Undead}{14}
+\contentsline {subsection}{Ethereal Mind}{15}
+\contentsline {subsection}{Death General}{15}
+\contentsline {subsection}{Necromantic Aspirations}{15}
+\contentsline {subsection}{Caretaker}{15}
+\contentsline {subsubsection}{Enhanced Animation}{15}
+\contentsline {subsubsection}{Enhanced Resilience}{15}
+\contentsline {subsubsection}{Conscious Animations}{16}
+\contentsline {subsubsection}{Dark Restoration}{16}
+\contentsline {subsubsection}{Selective Binding}{16}
+\contentsline {subsection}{Reaper}{16}
+\contentsline {subsubsection}{Bonus Proficiencies}{16}
+\contentsline {subsubsection}{Dark Strike}{16}
+\contentsline {subsubsection}{Extra Attack}{16}
+\contentsline {subsubsection}{Warcaster}{16}
+\contentsline {subsubsection}{Soul Reaper}{16}
+\contentsline {subsection}{Summoner}{16}
+\contentsline {subsubsection}{Efficient Animation}{16}
+\contentsline {subsubsection}{Summon Undead}{16}
+\contentsline {subsubsection}{Grandmaster}{16}
+\contentsline {subsubsection}{Unholy Siegemaster}{16}
+\contentsline {chapter}{\numberline {}Chapter 4: Extra Rules}{17}
