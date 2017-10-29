@@ -61,3 +61,7 @@
 \contentsline {subsubsection}{Grandmaster}{16}
 \contentsline {subsubsection}{Unholy Siegemaster}{16}
 \contentsline {chapter}{\numberline {}Chapter 4: Extra Rules}{17}
+\contentsline {subsection}{Familiars}{17}
+\contentsline {subsubsection}{Gameplay}{17}
+\contentsline {subsubsection}{Fight with an Familiar}{17}
+\contentsline {subsection}{Castle Management And Administration}{18}
