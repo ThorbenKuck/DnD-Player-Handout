@@ -71,14 +71,17 @@
 \contentsline {paragraph}{Nobel}{20}
 \contentsline {paragraph}{Warlord}{20}
 \contentsline {paragraph}{Builder}{20}
-\contentsline {subparagraph}{Pro}{20}
-\contentsline {subparagraph}{Con}{20}
-\contentsline {subparagraph}{Type}{20}
+\contentsline {subparagraph}{Pro}{21}
+\contentsline {subparagraph}{Con}{21}
+\contentsline {subparagraph}{Type}{21}
 \contentsline {subparagraph}{Factor}{21}
+\contentsline {subparagraph}{Name}{21}
+\contentsline {subparagraph}{Race}{21}
 \contentsline {subsubsection}{Outposts}{21}
 \contentsline {subsubsection}{Other Personal}{21}
 \contentsline {subsubsection}{Buildings}{21}
-\contentsline {subsubsection}{Population}{21}
-\contentsline {subsubsection}{Taxes}{21}
-\contentsline {subsubsection}{Rules}{21}
-\contentsline {subsubsection}{Politics}{21}
+\contentsline {subsubsection}{Population}{22}
+\contentsline {subsubsection}{Taxes}{22}
+\contentsline {subsubsection}{Import/Export}{22}
+\contentsline {subsubsection}{Rules}{23}
+\contentsline {subsubsection}{Politics}{23}
