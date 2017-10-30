@@ -1,7 +1,11 @@
 \documentclass[10pt,twoside,twocolumn,openany]{book}
-\usepackage[bg-letter]{dnd} % Options: bg-a4, bg-letter, bg-full, bg-print, bg-none.
+\usepackage{dnd} % Options: bg-a4, bg-letter, bg-full, bg-print, bg-none.
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+}
 
 \setcounter{secnumdepth}{1}
 \setcounter{tocdepth}{1}
@@ -125,7 +129,7 @@ That includes:
 Your character knows that and would most likely acts humble in such situations, to strengthen the good reputation of Half-Weylins. Except if your Character does not care about that or is marked by the daily hate against him.
 \end{paperbox}
 \subsection{Half-Weylin Names}
-A typical Half-Weylin names constist of a name, given at birth and the pack he grew up in.\\\\
+A typical Half-Weylin names constist of a name, given at birth and the pack he grew up in.\\
 \textbf{Male Names:}\\
 TODO\\
 \textbf{Female Name:}\\
@@ -265,19 +269,19 @@ Additionally, if the target of the attack dies, you gain temporary hit points eq
 Starting at 5th level, you gain an aura of undeath. You may use a bonus action to activate any or all auras you know and you may turn any of them off at any time for free on your turn.
 You choose one of the following auras when you gain this feature, and again at 11th and 17th levels. When your Aura of Undeath is turned on you maintain any auras you choose until you dismiss the effect. You may use a bonus action on future turns to activate additional Aura effects, but may dismiss them for free. Your Aura of Undeath has a radius of 30 ft, and affects all undead you control within it. Some Aura effects require you to take damage at the beginning of your turns to maintain them. This cost is noted on each Aura effect.
 
-If an Unholy Aura and a Holy Aura overlap, creatures in the overlapping areas get none of the benefits of either (so Aura of Undeath and a Paladin’s Devotion Aura would cancel out).\\\\
+If an Unholy Aura and a Holy Aura overlap, creatures in the overlapping areas get none of the benefits of either (so Aura of Undeath and a Paladin’s Devotion Aura would cancel out).\\
 \textbf{Aura of Ferocity}\\
 Costs 2 hp/round.\\
-Affected creatures may add your Charisma modifier to their damage rolls with weapon attacks.\\\\
+Affected creatures may add your Charisma modifier to their damage rolls with weapon attacks.\\
 \textbf{Aura of Resilience}\\
 Costs 1 hp/round.\\
-Affected creatures may add your Charisma modifier to any saving throws they make.\\\\
+Affected creatures may add your Charisma modifier to any saving throws they make.\\
 \textbf{Aura of Retaliation}\\
 Costs 2 hp/round.\\
-Affected creatures may make an attack of opportunity against any creature that attacks them with a melee weapon or melee spell attack.\\\\
+Affected creatures may make an attack of opportunity against any creature that attacks them with a melee weapon or melee spell attack.\\
 \textbf{Aura of Tenacity}\\
 Costs 3 hp/round.\\
-Affected creatures take less damage from non magical bludgeoning, piercing, and slashing damage equal to half your Charisma Modifier, rounded up (minimum 1).\\\\
+Affected creatures take less damage from non magical bludgeoning, piercing, and slashing damage equal to half your Charisma Modifier, rounded up (minimum 1).\\
 \textbf{Aura of Terror}\\
 Costs 2 hp/round.\\
 Affected creatures become more menacing. Any enemy creature that starts its turn or moves within 5 feet of an affected creature must make a wisdom saving throw against DC 8 + your proficiency bonus + your charisma modifier or become frightened for 1 minute. They may repeat this save at the end of each of their turns. If they succeed on their save, they become immune to this effect for 24 hours. Any creatures that are frightened when this aura ends stop being frightened.
@@ -308,7 +312,7 @@ Creating a Death General requires performing an 8 hour ritual every day for a we
 When you manifest your Aura of Undeath, Control Undead, or Dark Nova class features, you may do so from your General’s location, but they do not manifest from your own location if you do this.
 You may use an action to begin seeing through your General’s senses. This lasts until you end it and causes you to become blind and deaf to anything around your own body.
 You innately know the general direction and distance of any undead within the General’s control radius, and if an undead is within both yours and your Generals radius you know it’s exact location.
-Any time you would die for any reason. Your General dies instead, and your body is teleported to a safe place chosen by your DM on the same plane of existence, unconscious but stable. Any undead you control leave your influence and become wild.\\\\
+Any time you would die for any reason. Your General dies instead, and your body is teleported to a safe place chosen by your DM on the same plane of existence, unconscious but stable. Any undead you control leave your influence and become wild.\\
 Alternatively, you may choose to become the Death General yourself. Becoming a Death General requires performing an 8 hour ritual every day for a week, but has no gold cost. When you do this, you gain the following features.
 
 \begin{itemize}
@@ -797,5 +801,7 @@ If you, for any reason choose to take down time to administrate your Head Quarte
 Everything can happen within that downtime. Your constalation determins the likely hood of certain events. If you, for example, let an Warlord (or an player-equivalent) make the job of an Nobel, war might break loose. Or, if you choose to become a Builder, even tho you clearly are a magician, who lived in the wood for the last 100 years, mulitple buildings might collapse.
 
 In gerneal, those possibilities are low. But they exist. Be as clear as possible about what you want to do, achive and how you want to treat certain people in your specified downtime. You GM might than ask you some questions like "Where do you get the food for the worker from" and determin the outcome. At this downtime, you might get a higher stat, or become proficient in something. But, since this downtime is not determined to train you in certain skill, but to maintain and adminstrate the Headquarter, this is a rare scenario.
+
+\newpage
 
 \end{document}
