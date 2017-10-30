@@ -1,1 +1,6 @@
 index.pdf
+*.log
+*.aux
+*.idx
+*.gz
+*.toc
