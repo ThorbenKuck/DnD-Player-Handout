@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.13)  30 OCT 2017 12:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.13)  30 OCT 2017 12:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1489,6 +1489,11 @@ LaTeX Font Info:    Font shape `T1/pag/bx/sc' in size <10> not available
 LaTeX Font Info:    Font shape `T1/pag/b/sc' in size <10> not available
 (Font)              Font shape `T1/pag/db/sc' tried instead on input line 193.
 
+Underfull \hbox (badness 10000) in alignment at lines 193--193
+[][][] 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 193--193
 
  []
@@ -1712,7 +1717,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  27864 strings out of 494860
  556198 string characters out of 6177602
- 737073 words of memory out of 5000000
+ 734073 words of memory out of 5000000
  30639 multiletter control sequences out of 15000+600000
  52186 words of font info for 60 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -1730,7 +1735,7 @@ exmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
 r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on index.pdf (36 pages, 2287991 bytes).
+Output written on index.pdf (36 pages, 2288035 bytes).
 PDF statistics:
  218 PDF objects out of 1000 (max. 8388607)
  128 compressed objects within 2 object streams
