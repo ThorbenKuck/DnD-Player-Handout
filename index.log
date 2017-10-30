@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.13)  29 OCT 2017 21:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.13)  30 OCT 2017 12:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1216,10 +1216,10 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
 File: img/bg-letter-odd.jpg Graphic file (type jpg)
 
 <use img/bg-letter-odd.jpg>
-Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 20.
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 19.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <10> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 20.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 19.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
@@ -1229,16 +1229,18 @@ LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <10> not available
 File: img/bg-letter-even.jpg Graphic file (type jpg)
 
 <use img/bg-letter-even.jpg>
-Package pdftex.def Info: img/bg-letter-even.jpg used on input line 20.
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 19.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [2
 
  <./img/bg-letter-even.jpg>]
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 20.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 19.
  (./index.toc
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 3.
 )
 \tf@toc=\write7
 \openout7 = `index.toc'.
@@ -1246,17 +1248,51 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
 File: img/bg-letter-odd.jpg Graphic file (type jpg)
 
 <use img/bg-letter-odd.jpg>
-Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 20.
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 19.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [3
 
 ]
-Chapter .
 File: img/bg-letter-even.jpg Graphic file (type jpg)
-<use img/bg-letter-even.jpg>
-Package pdftex.def Info: img/bg-letter-even.jpg used on input line 23.
+ <use img/bg-letter-even.jpg>
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 21.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [4
+
+
+]
+File: img/bg-letter-odd.jpg Graphic file (type jpg)
+
+<use img/bg-letter-odd.jpg>
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 21.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [5
+
+
+]
+LaTeX Font Info:    Font shape `T1/pbk/m/n' in size <20.74> not available
+(Font)              Font shape `T1/pbk/l/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T1/pbk/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/pbk/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <20.74> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T1/pbk/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/pbk/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <24.88> not available
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 21.
+File: img/bg-letter-even.jpg Graphic file (type jpg)
+ <use img/bg-letter-even.jpg>
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 21.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [6
+
+]
+Chapter .
+File: img/bg-letter-odd.jpg Graphic file (type jpg)
+<use img/bg-letter-odd.jpg>
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 22.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [7
 
 
 ] (./General_Introduction.tex
@@ -1267,14 +1303,16 @@ LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
 )
 Overfull \vbox (37.76323pt too high) has occurred while \output is active []
 
-File: img/bg-letter-odd.jpg Graphic file (type jpg)
+File: img/bg-letter-even.jpg Graphic file (type jpg)
 
-<use img/bg-letter-odd.jpg>
-Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 25.
+<use img/bg-letter-even.jpg>
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 24.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [5
+ [8
 
-] (./Dragonborns.tex
+]
+Chapter .
+(./Dragonborns.tex
 LaTeX Font Info:    Font shape `T1/pbk/bx/n' in size <10> not available
 (Font)              Font shape `T1/pbk/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
@@ -1316,116 +1354,142 @@ Underfull \hbox (badness 1769) in paragraph at lines 13--31
 ark
  []
 
+File: img/bg-letter-odd.jpg Graphic file (type jpg)
+<use img/bg-letter-odd.jpg>
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 32.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [9
+
+]
+File: img/bg-letter-even.jpg Graphic file (type jpg)
+ <use img/bg-letter-even.jpg>
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 32.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [10
+
+
+]
+File: img/bg-letter-odd.jpg Graphic file (type jpg)
+
+<use img/bg-letter-odd.jpg>
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 32.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [11
+
+]
 Chapter .
 File: img/bg-letter-even.jpg Graphic file (type jpg)
 <use img/bg-letter-even.jpg>
-Package pdftex.def Info: img/bg-letter-even.jpg used on input line 32.
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 33.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [6]
-Underfull \hbox (badness 1810) in paragraph at lines 44--45
+ [12
+
+
+]
+Underfull \hbox (badness 1810) in paragraph at lines 45--46
 \T1/ppl/m/n/10 form small tribes and some in-te-grate them-self into
  []
 
-LaTeX Font Info:    Try loading font information for T1+fosj on input line 49.
-LaTeX Font Info:    No file T1fosj.fd. on input line 49.
+LaTeX Font Info:    Try loading font information for T1+fosj on input line 50.
+LaTeX Font Info:    No file T1fosj.fd. on input line 50.
 
 LaTeX Font Warning: Font shape `T1/fosj/m/n' undefined
-(Font)              using `T1/cmr/m/n' instead on input line 49.
+(Font)              using `T1/cmr/m/n' instead on input line 50.
 
 
 LaTeX Font Warning: Font shape `T1/fosj/m/sc' undefined
-(Font)              using `T1/fosj/m/n' instead on input line 49.
+(Font)              using `T1/fosj/m/n' instead on input line 50.
 
 
 LaTeX Font Warning: Font shape `T1/fosj/bx/sc' undefined
-(Font)              using `T1/fosj/m/n' instead on input line 49.
+(Font)              using `T1/fosj/m/n' instead on input line 50.
 
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 49.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 50.
 (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 49--53
+Underfull \hbox (badness 10000) in paragraph at lines 50--54
 
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 62--68
+Underfull \hbox (badness 2005) in paragraph at lines 63--69
 []\T1/ppl/b/n/10 Male Names: \T1/ppl/m/n/10 Dom-bra, Grutro, Ernero, Mer-a-tro,
 
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 62--68
+Underfull \hbox (badness 1132) in paragraph at lines 63--69
 \T1/ppl/m/n/10 Zu-rare, Un-dradar, Ki-ran-tar, Hubrate, Gul-tar, Lu-rare
  []
 
 File: img/bg-letter-odd.jpg Graphic file (type jpg)
 <use img/bg-letter-odd.jpg>
-Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 78.
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 79.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [7
+ [13
 
 ]
 File: img/bg-letter-even.jpg Graphic file (type jpg)
  <use img/bg-letter-even.jpg>
-Package pdftex.def Info: img/bg-letter-even.jpg used on input line 99.
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 100.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [8]
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 120
+ [14]
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 121
 .
-LaTeX Font Info:    No file OMSlmss.fd. on input line 120.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 121.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 120.
+(Font)              for symbol `textbullet' on input line 121.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--134
+Underfull \hbox (badness 10000) in paragraph at lines 128--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--134
+Underfull \hbox (badness 10000) in paragraph at lines 128--135
 
  []
 
 File: img/bg-letter-odd.jpg Graphic file (type jpg)
 <use img/bg-letter-odd.jpg>
-Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 149.
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 150.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [9]
+ [15]
 Chapter .
 File: img/bg-letter-even.jpg Graphic file (type jpg)
 <use img/bg-letter-even.jpg>
-Package pdftex.def Info: img/bg-letter-even.jpg used on input line 164.
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 165.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [10
+ [16
 
 ]
 File: img/bg-letter-odd.jpg Graphic file (type jpg)
  <use img/bg-letter-odd.jpg>
-Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 165.
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 166.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [11
+ [17
 
 
 ]
-LaTeX Font Info:    Try loading font information for T1+pag on input line 192.
+LaTeX Font Info:    Try loading font information for T1+pag on input line 193.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pag.fd
 File: t1pag.fd 2001/06/04 font definitions for T1/pag.
 )
 LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <10> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 192.
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 193.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 192.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 193.
 LaTeX Font Info:    Font shape `T1/pag/bx/sc' in size <10> not available
-(Font)              Font shape `T1/pag/b/sc' tried instead on input line 192.
+(Font)              Font shape `T1/pag/b/sc' tried instead on input line 193.
 LaTeX Font Info:    Font shape `T1/pag/b/sc' in size <10> not available
-(Font)              Font shape `T1/pag/db/sc' tried instead on input line 192.
+(Font)              Font shape `T1/pag/db/sc' tried instead on input line 193.
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 193--193
 
  []
 
@@ -1435,147 +1499,209 @@ Overfull \vbox (19.21451pt too high) has occurred while \output is active []
 File: img/bg-letter-even.jpg Graphic file (type jpg)
 
 <use img/bg-letter-even.jpg>
-Package pdftex.def Info: img/bg-letter-even.jpg used on input line 212.
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 213.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [12
+ [18
 
 ]
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 213.
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 234.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 214.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 235.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 234.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 235.
 File: img/bg-letter-odd.jpg Graphic file (type jpg)
 
 <use img/bg-letter-odd.jpg>
-Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 255.
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 256.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [13]
-Underfull \hbox (badness 10000) in paragraph at lines 267--283
+ [19]
+Underfull \hbox (badness 10000) in paragraph at lines 268--284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--283
+Underfull \hbox (badness 10000) in paragraph at lines 268--284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--283
+Underfull \hbox (badness 10000) in paragraph at lines 268--284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--283
+Underfull \hbox (badness 10000) in paragraph at lines 268--284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--283
+Underfull \hbox (badness 10000) in paragraph at lines 268--284
 
  []
 
 File: img/bg-letter-even.jpg Graphic file (type jpg)
 <use img/bg-letter-even.jpg>
-Package pdftex.def Info: img/bg-letter-even.jpg used on input line 293.
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 294.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [14]
-Underfull \hbox (badness 1028) in paragraph at lines 307--312
+ [20]
+Underfull \hbox (badness 1028) in paragraph at lines 308--313
 \T1/ppl/m/n/10 When you man-i-fest your Aura of Un-death, Con-trol
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--312
+Underfull \hbox (badness 10000) in paragraph at lines 308--313
 
  []
 
 File: img/bg-letter-odd.jpg Graphic file (type jpg)
 <use img/bg-letter-odd.jpg>
-Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 335.
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 336.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [15]
-Chapter .
+ [21]
 File: img/bg-letter-even.jpg Graphic file (type jpg)
-<use img/bg-letter-even.jpg>
-Package pdftex.def Info: img/bg-letter-even.jpg used on input line 376.
+ <use img/bg-letter-even.jpg>
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 377.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [16]
+ [22]
 File: img/bg-letter-odd.jpg Graphic file (type jpg)
- <use img/bg-letter-odd.jpg>
-Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 378.
+
+<use img/bg-letter-odd.jpg>
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 377.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [17
+ [23
 
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 392--392
-[][][][] 
- []
+File: img/bg-letter-even.jpg Graphic file (type jpg)
+ <use img/bg-letter-even.jpg>
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 377.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [24
+
+]
+Chapter .
+File: img/bg-letter-odd.jpg Graphic file (type jpg)
+<use img/bg-letter-odd.jpg>
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 378.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [25
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--392
-
- []
-
-
-Overfull \vbox (0.51855pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 2735) in paragraph at lines 423--424
+]
+Underfull \hbox (badness 2735) in paragraph at lines 408--409
 \T1/ppl/m/n/10 This Familiar-Action will man-is-fest in dif-fer-ent
  []
 
 File: img/bg-letter-even.jpg Graphic file (type jpg)
 <use img/bg-letter-even.jpg>
-Package pdftex.def Info: img/bg-letter-even.jpg used on input line 424.
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 412.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [18
+ [26
 
 ]
 File: img/bg-letter-odd.jpg Graphic file (type jpg)
  <use img/bg-letter-odd.jpg>
-Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 468.
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 424.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [19]
-File: img/bg-letter-even.jpg Graphic file (type jpg)
+ [27
 
+]
+Underfull \hbox (badness 10000) in alignment at lines 438--438
+[][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--438
+
+ []
+
+Chapter .
+File: img/bg-letter-even.jpg Graphic file (type jpg)
 <use img/bg-letter-even.jpg>
-Package pdftex.def Info: img/bg-letter-even.jpg used on input line 530.
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 442.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [20]
-Underfull \hbox (badness 1728) in paragraph at lines 568--569
+ [28
+
+
+]
+Underfull \hbox (badness 4832) in paragraph at lines 443--443
+|\T1/pbk/l/sc/17.28 Castle Man-age-ment And
+ []
+
+
+Underfull \vbox (badness 1442) has occurred while \output is active []
+
+File: img/bg-letter-odd.jpg Graphic file (type jpg)
+
+<use img/bg-letter-odd.jpg>
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 498.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [29
+
+]
+File: img/bg-letter-even.jpg Graphic file (type jpg)
+ <use img/bg-letter-even.jpg>
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 562.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [30]
+File: img/bg-letter-odd.jpg Graphic file (type jpg)
+
+<use img/bg-letter-odd.jpg>
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 629.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [31]
+Underfull \hbox (badness 1009) in paragraph at lines 649--650
+\T1/ppl/m/n/10 of that Race the Per-son might be-have dif-fer-ently in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 649--650
+
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 675--676
 \T1/ppl/m/n/10 A Lux-ury House, con-tain-ing 7 romms re-quires
  []
 
-File: img/bg-letter-odd.jpg Graphic file (type jpg)
-<use img/bg-letter-odd.jpg>
-Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 574.
-(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [21]
 File: img/bg-letter-even.jpg Graphic file (type jpg)
- <use img/bg-letter-even.jpg>
-Package pdftex.def Info: img/bg-letter-even.jpg used on input line 623.
+<use img/bg-letter-even.jpg>
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 676.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [22]
-Underfull \hbox (badness 10000) in paragraph at lines 632--635
+ [32]
+File: img/bg-letter-odd.jpg Graphic file (type jpg)
+ <use img/bg-letter-odd.jpg>
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 712.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [33]
+Underfull \hbox (badness 10000) in paragraph at lines 739--742
 
+ []
+
+File: img/bg-letter-even.jpg Graphic file (type jpg)
+<use img/bg-letter-even.jpg>
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 768.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+ [34]
+Underfull \hbox (badness 1577) in paragraph at lines 797--798
+\T1/ppl/m/n/10 If you, for ex-am-ple, let an War-lord (or an player-
  []
 
 File: img/bg-letter-odd.jpg Graphic file (type jpg)
 <use img/bg-letter-odd.jpg>
-Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 662.
+Package pdftex.def Info: img/bg-letter-odd.jpg used on input line 801.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [23]
+ [35]
 File: img/bg-letter-even.jpg Graphic file (type jpg)
  <use img/bg-letter-even.jpg>
-Package pdftex.def Info: img/bg-letter-even.jpg used on input line 662.
+Package pdftex.def Info: img/bg-letter-even.jpg used on input line 801.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
- [24
+ [36
 
 
 ] (./index.aux)
@@ -1584,13 +1710,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27827 strings out of 494860
- 555509 string characters out of 6177602
- 737307 words of memory out of 5000000
- 30605 multiletter control sequences out of 15000+600000
- 45950 words of font info for 52 fonts, out of 8000000 for 9000
+ 27864 strings out of 494860
+ 556198 string characters out of 6177602
+ 737073 words of memory out of 5000000
+ 30639 multiletter control sequences out of 15000+600000
+ 52186 words of font info for 60 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 70i,12n,103p,10492b,1107s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,12n,103p,10492b,1021s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist
 /fonts/enc/dvips/base/8r.enc} </home/thorben/.texmf-var/fonts/pk/ljfour/jknappe
 n/ec/ecrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
@@ -1604,10 +1730,10 @@ exmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
 r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on index.pdf (24 pages, 2270397 bytes).
+Output written on index.pdf (36 pages, 2287991 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
+ 218 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
